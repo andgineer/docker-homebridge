@@ -1,0 +1,10 @@
+"platforms": [
+  {
+    "platform": "openHAB",
+    "name": "openHAB",
+    "host": "10.0.0.55",
+    "port": "8877",
+    "sitemap": "demo",
+    "useLabelForName": true
+  }
+]
