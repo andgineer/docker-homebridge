@@ -1,7 +1,7 @@
 ### Homebridge server in Docker
 
 [Homebridge](https://www.npmjs.com/package/homebridge) server to integrate with 
-Apple smart home (homekit).
+Apple smart home (homekit) new devices (Xiaomi Mijia Aqara for example).
 
 Incapsulated into Docker to install on Synology.
 
